@@ -174,8 +174,8 @@ skills-tech:
         name: "IIS, VMware, XCP-ng, WinBox"
         level: 90%
 
-      - group: "Collaboration App"
-        name: "Github, M65, Azure Active Directory, Google Workspace, Jira"
+      - group: "Collaboration & Cloud services"
+        name: "Github, M65, Google Workspace, Jira, Azure Active Directory, AWS"
         level: 90%
 
 skills-attributes:
